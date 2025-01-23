@@ -32,5 +32,4 @@ Entities and ORM / Database seeding /Layer pattern / Controller, service, reposi
 
 ----------
 
- ♥ by Kate Keiroz.
 
