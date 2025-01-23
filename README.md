@@ -24,7 +24,9 @@ communication is made with the backend to add the data when this change is made 
 • LESSON 1 : Concepts / Web systems and resources / Client/server, HTTP, JSON /Rest pattern for web API /Spring Rest project structuring/
 Entities and ORM / Database seeding /Layer pattern / Controller, service, repository / DTO pattern.
 
-• LESSON 2 : N-N Relationships / Association Class, Embedded ID / SQL Queries in Spring Data JPA /Projections
+• LESSON 2 : N-N Relationships / Association Class, Embedded ID / SQL Queries in Spring Data JPA /Projections.
+
+• LESSON 3 :  Local approval process / Deployment process with CI/CD /CORS configuration
 
 
 
