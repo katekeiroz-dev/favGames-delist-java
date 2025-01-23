@@ -16,8 +16,9 @@ import com.devsuperior.dslist.services.GameService;
 @RequestMapping(value = "/games")
 public class GameController {
 
+
 	@Autowired
-	private GameService gameService;	
+	private GameService gameService;
 
 	@GetMapping(value = "/{id}")
 	public GameDTO findById(@PathVariable Long id) {
@@ -29,5 +30,6 @@ public class GameController {
 	public List<GameMinDTO> findAll() {
 		List<GameMinDTO> result = gameService.findAll();
 		return result;
-	}
+	}s
+
 }
